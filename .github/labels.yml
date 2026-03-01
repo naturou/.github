@@ -15,5 +15,5 @@
   description: "動作を変えないコードの整理・改善"
 
 - name: "investigation"
-  color: "E99695"
+  color: "d4c5f9"
   description: "不具合の原因究明・パフォーマンス解析・技術的な仕様確認などの調査"
