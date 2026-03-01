@@ -1,0 +1,19 @@
+- name: "bug"
+  color: "d73a4a"
+  description: "不具合の修正・動かない箇所の解消"
+
+- name: "documentation"
+  color: "0075ca"
+  description: "README や設計メモ等のドキュメント更新"
+
+- name: "feature"
+  color: "a2eeef"
+  description: "新機能の追加・主要なロジックの実装"
+
+- name: "refactor"
+  color: "fbca04"
+  description: "動作を変えないコードの整理・改善"
+
+- name: "investigation"
+  color: "E99695"
+  description: "不具合の原因究明、パフォーマンス解析、技術的な仕様確認などの調査タスク"
