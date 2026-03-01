@@ -16,4 +16,4 @@
 
 - name: "investigation"
   color: "E99695"
-  description: "不具合の原因究明、パフォーマンス解析、技術的な仕様確認などの調査タスク"
+  description: "不具合の原因究明・パフォーマンス解析・技術的な仕様確認などの調査"
